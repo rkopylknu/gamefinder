@@ -14,7 +14,7 @@
    
    db.dropDatabase()
 6. Відкрийте папку gamefinder-main, отриману після видобування файлів з архіву
-7. Перейдіть за шляхом GameFinder\bin\Debug
+7. Перейдіть за шляхом gamefinder-main\GameFinder\bin\Debug
 8. Запустіть GameFinder.exe
 
 Якщо всі шляхи було виконано правильно, повинен запуститися Windows Forms застосунок з початковим набором даних
