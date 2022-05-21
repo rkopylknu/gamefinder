@@ -75,5 +75,7 @@
 - Кнопка видалення гри - Для видалення гри, обраної в таблиці ігор
 
 ![Екран створення магазину](images/createstoreform-screenshot.png?raw=true)
+
 ![Екран створення виробника](images/createmanufacturerform-screenshot.png?raw=true)
-![Екран створення гри](images/creategameform-screenshot.png?raw=true)
+
+![Екран створення гри](images/creategamesform-screenshot.png?raw=true)
