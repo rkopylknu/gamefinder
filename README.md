@@ -7,9 +7,15 @@
 
    Приклад команди:
    C:\Users\User\Documents\mongodb\bin\mongod --port 27017
-4. Відкрийте папку gamefinder-main, отриману після видобування файлів з архіву
-5. Перейдіть за шляхом GameFinder\bin\Debug
-6. Запустіть GameFinder.exe
+4. Запустіть mongo.exe від імені адміністратора
+5. Виконайте наступні команди для очищення бази даних з назвою "gamestores":
+
+   use gamestores
+   
+   db.dropDatabase()
+6. Відкрийте папку gamefinder-main, отриману після видобування файлів з архіву
+7. Перейдіть за шляхом GameFinder\bin\Debug
+8. Запустіть GameFinder.exe
 
 Якщо всі шляхи було виконано правильно, повинен запуститися Windows Forms застосунок з початковим набором даних
 
